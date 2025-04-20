@@ -1,0 +1,1 @@
+# rotary-encoder-with-logic-gates
